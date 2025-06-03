@@ -1,0 +1,42 @@
+{
+  "name": "ai-prompt-library",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of AI prompts organized by category and use case",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "search": "node src/utils/search.js",
+    "validate": "node src/utils/validate.js",
+    "build": "echo 'Building prompt library...' && node src/utils/build.js",
+    "test": "echo 'Running prompt validation tests...' && npm run validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/ai-prompt-library.git"
+  },
+  "keywords": [
+    "ai",
+    "prompts",
+    "gpt",
+    "claude",
+    "gemini",
+    "prompt-engineering",
+    "artificial-intelligence",
+    "llm",
+    "natural-language-processing",
+    "prompt-library"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/ai-prompt-library/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/ai-prompt-library#readme",
+  "devDependencies": {
+    "marked": "^9.0.0",
+    "fs-extra": "^11.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
