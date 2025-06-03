@@ -135,3 +135,155 @@ Provide templates, examples, and specific writing suggestions.
 **Use Case**: Creating clear and comprehensive technical documentation
 **Expected Output**: Documentation templates and writing guidance
 **Best For**: Documentation creation, technical writing, knowledge sharing
+
+---
+
+## Complete Software Development Project
+
+```
+I need help with a complete software development project from conception to deployment. Please act as my technical architect and development guide.
+
+**Project Overview:**
+- Project type: [web app/mobile app/desktop app/API/other]
+- Project description: [what the software should do]
+- Target users: [who will use this software]
+- Primary use cases: [main functionality needed]
+- Timeline: [when you need this completed]
+
+**Technical Requirements:**
+- Platform requirements: [web/iOS/Android/Windows/Mac/Linux]
+- Performance needs: [speed/scale/concurrent users requirements]
+- Integration needs: [APIs/databases/third-party services]
+- Security requirements: [authentication/authorization/data protection]
+- Budget constraints: [hosting/service/development costs]
+
+**Current Resources:**
+- Technical skills: [your programming experience]
+- Team size: [who's working on this]
+- Development environment: [what tools/computers you have]
+- Existing assets: [code/designs/content already created]
+
+**Complete Development Plan Needed:**
+
+**Architecture and Technology:**
+- Technology stack recommendations with rationale
+- System architecture and component design
+- Database design and data modeling
+- API design and integration planning
+- Security architecture and implementation
+
+**Development Phases:**
+- Project planning and timeline with milestones
+- MVP (minimum viable product) definition
+- Feature prioritization and development phases
+- Testing strategy and quality assurance plan
+- Documentation and knowledge management
+
+**Implementation Guidance:**
+- Detailed development steps and best practices
+- Code structure and organization recommendations
+- Version control and collaboration workflows
+- Development environment setup instructions
+- Third-party service evaluation and integration
+
+**Deployment and Operations:**
+- Hosting platform recommendations and setup
+- CI/CD pipeline design and implementation
+- Monitoring and logging strategy
+- Backup and disaster recovery planning
+- Maintenance and update procedures
+
+**Deliverables I Need:**
+1. **Technical specification** with complete architecture
+2. **Development roadmap** with detailed timeline
+3. **Implementation guide** with step-by-step instructions
+4. **Code templates** and starter frameworks
+5. **Deployment checklist** and operations guide
+6. **Testing plan** and quality assurance procedures
+
+Please start with the technology recommendations and ask clarifying questions to ensure the solution fits my specific needs and constraints.
+```
+
+**Use Case**: Comprehensive software development project planning and guidance
+**Expected Output**: Complete development plan from architecture to deployment
+**Best For**: Software projects, technical planning, development team guidance
+
+---
+
+## Reverse Engineering Challenge
+
+```
+I want to conduct a reverse engineering analysis of a technology or system to understand how it works and potentially improve upon it. Help me systematically deconstruct and analyze this system.
+
+**Target System:**
+- System/technology: [what you want to reverse engineer]
+- Access level: [what you can observe/interact with]
+- Purpose: [why you're doing this analysis]
+- Legal considerations: [confirm this is legal and ethical]
+- Documentation available: [existing specs/manuals/code]
+
+**Reverse Engineering Goals:**
+- Understanding objectives: [what specifically you want to learn]
+- Improvement opportunities: [how you might enhance it]
+- Implementation insights: [techniques you want to apply elsewhere]
+- Security analysis: [vulnerabilities or weaknesses to identify]
+
+**Analysis Framework:**
+
+**Black Box Analysis:**
+- Input/output behavior mapping
+- Interface and API discovery
+- Performance characteristic measurement
+- Error condition and edge case identification
+- User interaction pattern analysis
+
+**White Box Analysis (if code/specs available):**
+- Algorithm identification and analysis
+- Data structure and flow mapping
+- Dependency and architecture analysis
+- Security mechanism evaluation
+- Performance bottleneck identification
+
+**Gray Box Analysis:**
+- Network protocol analysis (if applicable)
+- File format reverse engineering
+- Database schema reconstruction
+- Configuration and parameter discovery
+- Intermediate representation analysis
+
+**Technical Investigation:**
+- Technology stack identification
+- Framework and library analysis
+- Design pattern recognition
+- Architectural decision rationale
+- Implementation trade-off analysis
+
+**Systematic Approach:**
+1. **Reconnaissance**: Gather all available information
+2. **Behavioral Analysis**: Map inputs to outputs systematically
+3. **Component Identification**: Break system into analyzable parts
+4. **Interface Discovery**: Understand how components communicate
+5. **Algorithm Reconstruction**: Reverse engineer core logic
+6. **Documentation**: Create comprehensive analysis documentation
+7. **Verification**: Test understanding with predictions and experiments
+
+**Deliverables:**
+- System architecture documentation
+- Component interaction diagrams
+- Algorithm and logic flow descriptions
+- Security and vulnerability assessment
+- Improvement recommendations and alternatives
+- Implementation guidance for similar systems
+
+**Ethical Guidelines:**
+- Respect intellectual property and legal boundaries
+- Use findings for legitimate educational/improvement purposes
+- Document methodologies for reproducible analysis
+- Consider responsible disclosure for security findings
+
+Help me systematically understand this technology and extract actionable insights for learning and improvement.
+```
+
+**Use Case**: Technical analysis and understanding of existing systems through reverse engineering
+**Expected Output**: Comprehensive system analysis with documentation and insights
+**Best For**: Technology research, competitive analysis, security research, learning and education

@@ -135,3 +135,104 @@ Please design a personal productivity system and provide the first week's optimi
 **Use Case**: AI-powered personal productivity optimization
 **Expected Output**: Personalized productivity system with autonomous support
 **Best For**: Busy professionals, goal-oriented individuals, productivity optimization
+
+---
+
+## Comprehensive Business Analysis Agent
+
+```
+I need a comprehensive business analysis for a strategic decision. Please act as my autonomous business analyst and provide a thorough assessment.
+
+**Business Context:**
+- Company/industry: [your business/sector]
+- Current situation: [where you are now]
+- Strategic question: [the decision you need to make]
+- Timeline for decision: [when you need to decide]
+- Stakes involved: [what's at risk/potential impact]
+
+**Analysis Requirements:**
+Please autonomously research and analyze:
+- Market conditions and trends relevant to this decision
+- Competitive landscape and positioning
+- Financial implications and ROI projections
+- Risk assessment (regulatory, operational, financial, strategic)
+- Implementation requirements and timeline
+- Resource allocation needs
+- Success metrics and KPIs
+
+**Analysis Framework:**
+- SWOT analysis for the current situation
+- Scenario planning (best case, worst case, most likely)
+- Stakeholder impact assessment
+- Cost-benefit analysis with sensitivity testing
+- Implementation roadmap with key milestones
+
+**Decision Support Needed:**
+- Clear recommendation with rationale
+- Alternative options with trade-offs
+- Risk mitigation strategies
+- Success indicators to monitor
+- Go/no-go decision criteria
+
+**Deliverables:**
+Provide a comprehensive report including executive summary, detailed analysis, financial modeling, and implementation plan. Structure it as a professional business case that I can present to stakeholders.
+
+Please begin the analysis and let me know what additional information you need to complete this assessment.
+```
+
+**Use Case**: Autonomous business analysis and strategic decision support
+**Expected Output**: Professional business case with recommendations
+**Best For**: Strategic decisions, investment analysis, business planning
+
+---
+
+## Digital Archaeology Expedition
+
+```
+I want you to act as a Digital Archaeology Agent - an AI that can autonomously explore, map, and analyze digital ecosystems to uncover hidden patterns, forgotten connections, and emergent insights.
+
+**Expedition Parameters:**
+- Digital territory to explore: [website, database, code repository, social network, etc.]
+- Archaeological focus: [what kind of "artifacts" am I looking for?]
+- Time period of interest: [when was this digital space most active?]
+- Mystery to solve: [what question drives this expedition?]
+
+**Archaeological Methods:**
+Please autonomously employ these digital archaeology techniques:
+- Stratigraphic analysis: Layer by layer examination of digital sediments
+- Carbon dating: Timestamp analysis and content evolution tracking
+- Artifact classification: Categorize digital objects by type, age, significance
+- Site mapping: Create topology of digital space and relationships
+- Cultural interpretation: Understand the digital civilization that created this
+- Preservation assessment: Identify what's endangered or already lost
+
+**Excavation Tools:**
+- Data mining and pattern recognition
+- Metadata analysis and provenance tracking
+- Network topology mapping
+- Temporal analysis and change detection
+- Linguistic archaeology (language/tone evolution)
+- Behavioral pattern reconstruction
+
+**Expedition Goals:**
+- Map the digital landscape comprehensively
+- Identify significant "artifacts" and their context
+- Reconstruct the "civilization" that created this space
+- Uncover hidden connections and forgotten narratives
+- Predict what might be discovered with deeper excavation
+- Assess historical significance and preservation needs
+
+**Documentation Requirements:**
+- Field notes with discoveries and hypotheses
+- Site maps showing digital topology
+- Artifact catalog with significance ratings
+- Cultural analysis of the digital civilization
+- Timeline of digital evolution
+- Recommendations for further exploration
+
+Begin the expedition and provide regular field reports as you uncover the digital archaeology of this space.
+```
+
+**Use Case**: Creative exploration and analysis of digital spaces and data
+**Expected Output**: Archaeological-style analysis with discoveries and insights
+**Best For**: Data exploration, competitive intelligence, digital forensics, creative research
