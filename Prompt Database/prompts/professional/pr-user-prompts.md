@@ -290,3 +290,201 @@ Transform this analysis into actionable security improvements and competitive st
 **Use Case**: Competitive intelligence assessment and business security analysis
 **Expected Output**: Vulnerability analysis with security improvement recommendations
 **Best For**: Strategic planning, competitive analysis, business security, risk management
+
+---
+
+## Workplace Culture and Team Dynamics Analysis
+
+```
+I need help analyzing and improving workplace dynamics and team effectiveness in my organization:
+
+**Organizational Context:**
+- Company size: [startup, small business, mid-size, enterprise]
+- Industry: [sector and business context]
+- Team structure: [hierarchical, flat, matrix, cross-functional]
+- Remote/hybrid/in-person: [work arrangement and distribution]
+- Recent changes: [reorganizations, new hires, process changes]
+
+**Current Situation:**
+- Team composition: [roles, experience levels, tenure, diversity]
+- Observed dynamics: [what patterns do you see in team interactions?]
+- Performance indicators: [productivity, morale, turnover, engagement]
+- Communication patterns: [formal/informal, frequency, effectiveness]
+- Decision-making processes: [how decisions get made and implemented]
+
+**Specific Challenges:**
+Please help me analyze and address:
+- [ ] Communication breakdowns or miscommunications
+- [ ] Conflict resolution and interpersonal tensions
+- [ ] Meeting effectiveness and productivity
+- [ ] Cross-functional collaboration issues
+- [ ] Leadership and management dynamics
+- [ ] Cultural misalignment or values conflicts
+- [ ] Change resistance and adaptation challenges
+- [ ] Performance and accountability issues
+
+**Analysis Framework:**
+- Individual dynamics: [personality types, work styles, motivations]
+- Team interactions: [collaboration patterns, influence networks, roles]
+- Organizational systems: [processes, structures, incentives, culture]
+- Environmental factors: [market pressures, resource constraints, external influences]
+
+**Improvement Goals:**
+- Performance outcomes: [productivity, quality, innovation, efficiency]
+- Cultural objectives: [inclusion, engagement, satisfaction, retention]
+- Communication enhancement: [clarity, frequency, feedback, transparency]
+- Leadership development: [coaching, delegation, decision-making, vision]
+
+**Intervention Preferences:**
+- Assessment methods: [surveys, interviews, observation, data analysis]
+- Change approach: [gradual evolution vs targeted interventions]
+- Stakeholder involvement: [top-down, bottom-up, collaborative design]
+- Implementation timeline: [immediate actions vs long-term transformation]
+
+**Measurement and Success:**
+- Key indicators: [how will you measure improvement?]
+- Feedback mechanisms: [how will you track progress and adjust?]
+- Sustainability: [how will you maintain positive changes?]
+
+Provide a comprehensive analysis of workplace dynamics with actionable recommendations for building a more effective, positive, and productive team environment.
+```
+
+**Use Case**: Workplace culture analysis and team dynamics improvement
+**Expected Output**: Comprehensive workplace analysis with improvement strategies
+**Best For**: Managers, HR professionals, organizational development, team leads
+
+---
+
+## Business Strategy and Analysis
+
+```
+I need comprehensive business analysis and strategic consultation for a critical business decision or challenge:
+
+**Business Context:**
+- Organization type: [startup, SME, enterprise, non-profit, government]
+- Industry sector: [specify industry and market context]
+- Company size: [employees, revenue, market position]
+- Business model: [B2B, B2C, marketplace, SaaS, traditional, etc.]
+- Geographic scope: [local, national, international operations]
+
+**Strategic Challenge:**
+- Decision type: [expansion, investment, pivot, acquisition, product launch, market entry]
+- Problem statement: [what specific challenge are you facing?]
+- Stakeholders involved: [decision makers, affected parties, influencers]
+- Timeline: [when does this decision need to be made?]
+- Strategic importance: [impact on business future, risk level, investment size]
+
+**Business Analysis Needed:**
+Please provide analysis on:
+- [ ] Market analysis and competitive landscape
+- [ ] Financial modeling and ROI projections
+- [ ] Risk assessment and mitigation strategies
+- [ ] Strategic options evaluation and comparison
+- [ ] Implementation planning and resource requirements
+- [ ] Success metrics and performance indicators
+- [ ] Stakeholder impact and change management
+- [ ] Long-term strategic implications
+
+**Current Business Situation:**
+- Market position: [competitive advantage, market share, brand strength]
+- Financial health: [revenue trends, profitability, cash flow, key metrics]
+- Operational capabilities: [strengths, weaknesses, capacity, efficiency]
+- Team and resources: [key personnel, skills, technology, infrastructure]
+- Recent performance: [growth trends, challenges, successes, lessons learned]
+
+**Strategic Objectives:**
+- Growth goals: [revenue targets, market expansion, scale objectives]
+- Competitive positioning: [differentiation strategy, market leadership goals]
+- Financial objectives: [profitability, valuation, investment returns]
+- Operational excellence: [efficiency improvements, quality enhancement]
+- Innovation and development: [new products, technology advancement, R&D]
+
+**Analysis Framework:**
+- External analysis: [market trends, competitive dynamics, regulatory environment]
+- Internal analysis: [capabilities, resources, performance, culture]
+- Strategic options: [growth strategies, competitive moves, operational improvements]
+- Implementation planning: [timeline, resources, risks, success factors]
+
+**Decision Support Requirements:**
+- Data and research: [market data, financial analysis, benchmarking]
+- Scenario planning: [best case, worst case, most likely outcomes]
+- Recommendation format: [executive summary, detailed analysis, presentation]
+- Follow-up support: [implementation guidance, progress monitoring, adjustments]
+
+Provide comprehensive business analysis with strategic recommendations and implementation guidance.
+```
+
+**Use Case**: Strategic business analysis and executive decision support
+**Expected Output**: Professional business analysis with strategic recommendations
+**Best For**: Business executives, strategic planners, management consultants
+
+---
+
+## Project Management and Execution
+
+```
+I need professional project management support to ensure successful delivery of a complex project:
+
+**Project Overview:**
+- Project type: [product development, system implementation, organizational change, construction, event, etc.]
+- Project scope: [detailed description of what needs to be accomplished]
+- Budget: [total budget, funding sources, cost constraints]
+- Timeline: [start date, key milestones, final deadline]
+- Success criteria: [how will success be measured?]
+
+**Project Context:**
+- Organization: [internal project, client project, cross-company collaboration]
+- Industry/domain: [context that affects project approach and requirements]
+- Stakeholders: [project sponsor, team members, end users, external parties]
+- Complexity level: [simple, moderate, high complexity and why]
+- Risk profile: [low, medium, high risk with key risk factors]
+
+**Project Management Support Needed:**
+Please help me with:
+- [ ] Project planning and work breakdown structure
+- [ ] Resource planning and team organization
+- [ ] Timeline development and milestone tracking
+- [ ] Risk management and mitigation planning
+- [ ] Communication and stakeholder management
+- [ ] Quality assurance and deliverable management
+- [ ] Budget tracking and cost management
+- [ ] Change management and scope control
+
+**Current Project Status:**
+- Phase: [initiation, planning, execution, monitoring, closing]
+- Progress: [what has been completed, current activities, upcoming work]
+- Team status: [team composition, performance, availability, issues]
+- Budget status: [spending to date, remaining budget, cost projections]
+- Challenges: [current obstacles, bottlenecks, concerns, risks materializing]
+
+**Project Requirements:**
+- Deliverables: [specific outputs, quality standards, acceptance criteria]
+- Constraints: [time, budget, resource, technical, regulatory limitations]
+- Dependencies: [external dependencies, inter-project dependencies, critical path items]
+- Quality standards: [performance requirements, compliance needs, testing criteria]
+- Communication needs: [reporting frequency, stakeholder updates, documentation]
+
+**Team and Resources:**
+- Team structure: [roles, responsibilities, reporting relationships, decision authority]
+- Resource requirements: [skills needed, equipment, tools, external services]
+- Team dynamics: [collaboration style, communication preferences, conflict resolution]
+- Capacity planning: [availability, workload distribution, skill development needs]
+
+**Project Methodology:**
+- Approach preference: [waterfall, agile, hybrid, specific framework]
+- Tools and systems: [project management software, collaboration tools, tracking methods]
+- Governance: [decision-making process, approval workflows, escalation procedures]
+- Documentation: [project documentation requirements, knowledge management]
+
+**Success Factors:**
+- Critical success factors: [what must go right for the project to succeed?]
+- Key performance indicators: [metrics to track progress and success]
+- Risk tolerance: [acceptable risk levels, contingency planning needs]
+- Stakeholder satisfaction: [how to ensure stakeholder needs are met]
+
+Provide comprehensive project management guidance with tools, templates, and best practices for successful project delivery.
+```
+
+**Use Case**: Professional project management and execution support
+**Expected Output**: Project management plan with tools and methodologies
+**Best For**: Project managers, team leads, business professionals managing complex projects

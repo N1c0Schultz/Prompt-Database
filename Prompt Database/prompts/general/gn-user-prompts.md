@@ -261,3 +261,113 @@ This is a creative exploration to gain perspective on life choices and current d
 **Use Case**: Creative decision-making tool using alternative timeline exploration
 **Expected Output**: Multi-universe analysis with insights for current decisions
 **Best For**: Major life decisions, career changes, relationship choices, creative problem-solving
+
+---
+
+## Learning and Skill Development
+
+```
+I want to learn a new skill or deepen my understanding of a topic. Please help me create an effective learning plan:
+
+**Learning Objective:**
+- Subject/skill: [what do you want to learn?]
+- Current level: [complete beginner, some experience, intermediate, advanced]
+- Learning goal: [what do you want to achieve?]
+- Timeline: [how long do you have to learn this?]
+- Motivation: [why is this important to you?]
+
+**Learning Context:**
+- Available time: [how many hours per week can you dedicate?]
+- Learning style: [visual, auditory, hands-on, reading/writing, or mixed]
+- Resources available: [books, courses, mentors, tools, budget]
+- Learning environment: [self-study, formal classes, group learning]
+
+**Current Knowledge Assessment:**
+- What I already know: [existing knowledge or skills in this area]
+- Related experience: [transferable skills from other areas]
+- Learning challenges: [what makes learning difficult for you?]
+- Previous learning successes: [what learning methods have worked well?]
+
+**Specific Learning Needs:**
+Please help me with:
+- [ ] Learning path and curriculum design
+- [ ] Resource recommendations (books, courses, tools)
+- [ ] Practice exercises and hands-on projects
+- [ ] Progress milestones and assessment methods
+- [ ] Study schedule and time management
+- [ ] Motivation and accountability strategies
+- [ ] Connection to real-world applications
+
+**Learning Preferences:**
+- Depth vs breadth: [comprehensive understanding vs broad overview]
+- Theory vs practice: [conceptual learning vs hands-on application]
+- Structure: [highly organized curriculum vs flexible exploration]
+- Pace: [intensive/fast-paced vs gradual/steady progress]
+
+**Success Criteria:**
+- How will you know you've succeeded: [specific skills, knowledge, or capabilities]
+- Application goals: [how will you use this learning?]
+- Assessment preferences: [tests, projects, peer review, self-evaluation]
+
+Create a personalized learning plan that matches my style, schedule, and goals while ensuring effective skill development.
+```
+
+**Use Case**: Structured learning and skill development planning
+**Expected Output**: Comprehensive learning plan with resources and milestones
+**Best For**: Students, professionals, lifelong learners, skill development
+
+---
+
+## Executive Support and Productivity
+
+```
+I need high-level executive support to manage complex responsibilities and optimize productivity:
+
+**Executive Context:**
+- Role/position: [your title and primary responsibilities]
+- Organization type: [startup, enterprise, non-profit, government, etc.]
+- Team size: [people you manage directly and indirectly]
+- Key stakeholders: [board, clients, partners, team members]
+- Industry/sector: [context for business environment]
+
+**Current Productivity Challenges:**
+- Time management: [calendar overload, competing priorities, interruptions]
+- Information management: [data overload, communication volume, decision support]
+- Strategic focus: [balancing urgent vs important, long-term vs short-term]
+- Team coordination: [delegation, communication, accountability]
+- Personal effectiveness: [energy management, work-life balance, stress]
+
+**Support Areas Needed:**
+- [ ] Calendar management and meeting optimization
+- [ ] Communication triage and response prioritization
+- [ ] Project tracking and status reporting
+- [ ] Decision support and information synthesis
+- [ ] Stakeholder relationship management
+- [ ] Travel and event coordination
+- [ ] Document and information organization
+- [ ] Strategic planning support
+
+**Executive Preferences:**
+- Communication style: [brief updates, detailed reports, visual dashboards]
+- Decision-making approach: [collaborative, independent, data-driven, intuitive]
+- Technology preferences: [tools and platforms you use or prefer]
+- Delegation style: [hands-on oversight vs autonomous execution]
+- Reporting frequency: [daily, weekly, as-needed updates]
+
+**Organizational Dynamics:**
+- Company culture: [formal, informal, hierarchical, flat, etc.]
+- Decision-making processes: [how things get approved and implemented]
+- Key relationships: [important internal and external stakeholders]
+- Communication protocols: [formal channels, informal networks, escalation paths]
+
+**Success Metrics:**
+- Productivity improvements: [time savings, efficiency gains, quality improvements]
+- Strategic impact: [better decision-making, increased focus, goal achievement]
+- Work-life balance: [reduced stress, improved satisfaction, sustainable pace]
+
+Please provide executive-level support strategies and systems to enhance effectiveness and achieve strategic objectives.
+```
+
+**Use Case**: High-level executive support and productivity optimization
+**Expected Output**: Executive support strategy with systems and processes
+**Best For**: Executives, senior managers, business leaders

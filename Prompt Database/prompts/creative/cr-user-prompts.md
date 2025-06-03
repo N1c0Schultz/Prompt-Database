@@ -207,3 +207,103 @@ Help me create an artifact that archaeologists, historians, and time travelers w
 **Use Case**: Experimental storytelling across multiple time periods
 **Expected Output**: Multi-temporal narrative artifact with detailed development
 **Best For**: Creative writers, experimental artists, interactive media, speculative fiction
+
+---
+
+## Art and Visual Design Assistant
+
+```
+I need help with a visual design or artistic project. Here's what I'm working on:
+
+**Project Type:**
+- Medium: [digital art, traditional art, graphic design, UI/UX, etc.]
+- Purpose: [personal project, client work, portfolio piece, etc.]
+- Style preference: [modern, classical, abstract, realistic, etc.]
+- Target audience: [who will see this work?]
+
+**Current Situation:**
+- What I have so far: [concept, sketches, references, etc.]
+- Inspiration sources: [artists, styles, or works that inspire this project]
+- Technical constraints: [software, materials, size, format requirements]
+- Timeline: [when does this need to be completed?]
+
+**Specific Help Needed:**
+Please assist me with:
+- [ ] Concept development and creative direction
+- [ ] Color palette selection and color theory guidance
+- [ ] Composition and layout optimization
+- [ ] Style and technique recommendations
+- [ ] Reference gathering and mood board creation
+- [ ] Technical execution guidance
+- [ ] Critique and improvement suggestions
+
+**Creative Goals:**
+- Emotional impact: [what feeling should this evoke?]
+- Message or theme: [what story or idea does this communicate?]
+- Aesthetic objectives: [beautiful, functional, provocative, etc.]
+- Innovation level: [traditional approach vs experimental techniques]
+
+**Visual Elements:**
+- Subject matter: [what will be depicted or designed?]
+- Environment/context: [where does this exist or get used?]
+- Key visual metaphors: [symbolic elements to include]
+- Must-have elements: [specific requirements that cannot change]
+
+Please provide specific artistic direction, technique suggestions, and creative guidance to help bring this vision to life.
+```
+
+**Use Case**: Visual art and design project development and guidance
+**Expected Output**: Artistic direction with specific techniques and recommendations
+**Best For**: Artists, designers, creative professionals, art students
+
+---
+
+## Music Creation and Composition
+
+```
+I want to create or compose music and need guidance throughout the creative process:
+
+**Musical Project:**
+- Genre/style: [classical, electronic, rock, jazz, film score, etc.]
+- Purpose: [personal expression, commercial use, learning exercise, etc.]
+- Instrumentation: [solo instrument, band, orchestra, digital/software, etc.]
+- Experience level: [beginner, intermediate, advanced]
+
+**Current Progress:**
+- What I have: [melody ideas, chord progressions, lyrics, rhythm, etc.]
+- Musical influences: [artists, composers, or songs that inspire this project]
+- Available tools: [instruments, software, recording equipment]
+- Collaboration: [working alone or with others?]
+
+**Creative Direction Needed:**
+- [ ] Melody development and harmonization
+- [ ] Chord progression and harmonic analysis
+- [ ] Rhythm and groove creation
+- [ ] Song structure and arrangement
+- [ ] Instrumentation and orchestration
+- [ ] Lyrical content and vocal melody
+- [ ] Production and mixing guidance
+
+**Musical Elements:**
+- Mood/emotion: [what feeling should this music convey?]
+- Energy level: [calm, energetic, dramatic, contemplative, etc.]
+- Complexity: [simple and accessible vs complex and challenging]
+- Length: [short piece, full song, extended composition]
+
+**Technical Considerations:**
+- Key signature: [any preferences or requirements?]
+- Tempo: [slow, moderate, fast, variable]
+- Time signature: [4/4, 3/4, complex meters, etc.]
+- Recording/performance context: [live, studio, home recording]
+
+**Learning Goals:**
+- Theory concepts to explore: [harmony, counterpoint, form, etc.]
+- Techniques to practice: [specific compositional or performance skills]
+- Musical problem-solving: [specific challenges to overcome]
+
+Please provide compositional guidance, music theory insights, and creative suggestions to help develop this musical project.
+```
+
+**Use Case**: Music composition, songwriting, and creative musical development
+**Expected Output**: Musical guidance with theory explanations and creative suggestions
+**Best For**: Musicians, composers, songwriters, music students
