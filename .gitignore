@@ -38,6 +38,7 @@ temp/
 # Build outputs
 dist/
 build/
+build-report.json
 
 # Environment variables
 .env
