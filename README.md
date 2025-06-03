@@ -71,13 +71,12 @@ src/
 ## 📖 Documentation
 
 - [Getting Started](docs/getting-started.md)
-- [Contributing Guidelines](docs/contributing.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
 - [Prompt Examples](examples/sample-prompts.md)
-- [Best Practices](docs/best-practices.md)
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](docs/contributing.md) before submitting prompts.
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for setup instructions, content guidelines, and deployment steps.
 
 ### Quick Contribution Guide
 

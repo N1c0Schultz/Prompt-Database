@@ -159,11 +159,7 @@ class PromptLibraryBuilder {
             status: this.errors.length === 0 ? 'SUCCESS' : 'FAILED'
         };
 
-        // Write report to file
-        const reportPath = path.join(this.rootDir, 'build-report.json');
-        fs.writeFileSync(reportPath, JSON.stringify(report, null, 2));
-        
-        this.log(`Build report saved to: build-report.json`);
+        this.log('Build report generated');
         return report;
     }
 
