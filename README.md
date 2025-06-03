@@ -2,35 +2,6 @@
 
 A comprehensive collection of AI prompts organized by category and use case, designed for developers, content creators, and AI enthusiasts.
 
-## 📁 Project Structure
-
-```
-src/
-├── prompts/
-│   ├── creative/
-│   │   ├── system-prompts.md
-│   │   ├── developer-prompts.md
-│   │   └── user-prompts.md
-│   ├── technical/
-│   │   ├── system-prompts.md
-│   │   ├── developer-prompts.md
-│   │   └── user-prompts.md
-│   ├── general/
-│   │   ├── system-prompts.md
-│   │   ├── developer-prompts.md
-│   │   └── user-prompts.md
-│   ├── agentic/
-│   │   ├── system-prompts.md
-│   │   ├── developer-prompts.md
-│   │   └── user-prompts.md
-│   └── professional/
-│       ├── system-prompts.md
-│       ├── developer-prompts.md
-│       └── user-prompts.md
-├── categories/
-└── utils/
-```
-
 ## 🎯 Prompt Categories
 
 ### 🎨 Creative
@@ -86,14 +57,10 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 4. Test your prompts thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Featured Prompts
 
 *Coming soon - highlights of the most effective and popular prompts from the community*
 
 ---
 
-**Made with ❤️ by the AI community**
+**Made with ❤️**
